@@ -21,6 +21,7 @@ CNNs are widely used for image-based recognition tasks due to their ability to d
 ```
 DL_Project_Emotion_Detection_System_Using_CNN
 │
+├── Train_Data_and_Test_Data
 ├── Emotion_Detection_CNN.ipynb                                                # Jupyter notebook with data preprocessing, model training & evaluation
 └── README.md                                                                  # Project documentation
 
