@@ -1,5 +1,14 @@
 # 😊 Emotion Detection System Using CNN
 
+## 📌 Internship Task – 2 (CODTECH)
+
+- COMPANY- CODTECH IT SOLUTIONS
+- NAME- MAYANK SRIVASTAVA
+- INTERN ID- CTIS4257
+- DOMAIN- DATA SCIENCE
+- DURATION - 12 WEEKS
+- MENTOR - NEELA SANTHOSH KUMAR
+
 A **Deep Learning based Emotion Detection project** that identifies human emotions from facial images using a **Convolutional Neural Network (CNN)**.
 
 📂 **GitHub Notebook:** https://github.com/ms00000ms0000/DL_Project_Emotion_Detection_System_Using_CNN/blob/main/Emotion_Detection_CNN.ipynb  
